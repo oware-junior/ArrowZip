@@ -6,7 +6,9 @@ A relaxing arrow puzzle game for Android, built with Flutter.
 
 Tap an arrow and it slides out of the board along its own path. If another
 arrow is in the way, it bumps and you lose a heart. Clear the whole board to
-win. Currently in closed testing on Google Play.
+win.
+
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.arrowvext.arrow_vext)**
 
 <p>
   <img src="screenshots/phone_1_gameplay.png" width="200" alt="Gameplay">
